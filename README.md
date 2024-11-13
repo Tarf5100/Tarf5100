@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tarfah (M) Bin Moammar</h1>
 - 🔭 I’m currently working on my ninja skills... but I’m still getting caught!
 
-- 👯 I’m looking to collaborate on on creative projects.
+- 👯 I’m looking to collaborate on creative projects.
 
 - 📫 How to reach me tarfahbinmummar@gmail.com
 
-- ⚡ Fun fact One teaspoon of a neutron star would weigh about 6 billion tons!
+- ⚡ Fun fact one teaspoon of a neutron star would weigh about 6 billion tons!
 
   ![coderman](https://github.com/user-attachments/assets/83777ec5-f04c-4b0a-ba59-b1508c8bd9c2)
 
