@@ -6,9 +6,11 @@
 - 📫 How to reach me tarfahbinmummar@gmail.com
 
 - ⚡ Fun fact one teaspoon of a neutron star would weigh about 6 billion tons!
+<br>
 
   ![coderman](https://github.com/user-attachments/assets/83777ec5-f04c-4b0a-ba59-b1508c8bd9c2)
-
+  
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tarfahbinmummar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tarfahbinmummar" height="30" width="40" /></a>
@@ -16,7 +18,7 @@
 </p>
 <br>              
 
-**I LOVE CODE**<br>
+**I LOVE TO CODE , me rn :**<br><br>
 &nbsp;&nbsp;![cat-typing](https://github.com/user-attachments/assets/5a4751bc-d871-4cf1-9c3a-e06122654d67)&nbsp;&nbsp;    
 <br>
 
