@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on creative projects.
 
-- 📫 How to reach me tarfahbinmummar@gmail.com
+- 📫 How to reach me tarfahbinmoammar@gmail.com
 
 - ⚡ Fun fact one teaspoon of a neutron star would weigh about 6 billion tons!
 <br>
@@ -13,7 +13,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tarfahbinmummar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tarfahbinmummar" height="30" width="40" /></a>
+<a href="https://twitter.com/tarfahbinmummar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="TarfahBinMoammar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tarfah-bin-moammar-943565294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tarfah-bin-moammar-943565294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" height="30" width="40" /></a>
 </p>
 <br>              
